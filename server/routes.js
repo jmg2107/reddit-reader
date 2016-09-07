@@ -1,5 +1,5 @@
 var requestHandler = require('./requestHandler.js');
-
+var path = require ('path');
 
 
 module.exports = function (app, express){
